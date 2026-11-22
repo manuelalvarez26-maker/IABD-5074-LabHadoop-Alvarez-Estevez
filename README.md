@@ -100,13 +100,13 @@ IABD-5074-LabHadoop-Alvarez-Estevez/
 
 ## 4. Aclaraciones sobre las Evidencias y el Informe Técnico
 
-* **División de capturas gráficas para mayor legibilidad:** Con el objetivo de evitar recortes horizontales y asegurar que todas las columnas, métricas de capacidad, direcciones IP y bloques sean completamente legibles sin pérdida de resolución, determinadas evidencias almacenadas en el directorio `evidencias/` se han dividido en dos capturas consecutivas (identificadas mediante el sufijo `_2`, como ocurre con `01_namenode_ui_9870.png` / `01_namenode_ui_9870_2.png` y `02_hdfs_fsck_bloques.png` / `02_hdfs_fsck_bloques_2.png`).
-* **Alcance ampliado del informe técnico:** En el documento PDF entregado dentro de la carpeta `informe/`, además de dar respuesta detallada y justificada a las **cuatro cuestiones técnicas** exigidas en el guion de la práctica, se ha incorporado una explicación contextual de cada fase ejecutada junto con evidencias gráficas adicionales para dejar constancia del dominio y comprensión integral del funcionamiento interno de HDFS y YARN.
+* **División de capturas gráficas para mayor legibilidad:** Con el objetivo de mejorar la legibilidad de las capturas sin perder resolución, he dividido determinadas evidencias almacenadas en el directorio `evidencias/` en dos capturas consecutivas (identificadas mediante el sufijo `_2`).
+* **Alcance ampliado del informe técnico:** En el documento PDF entregado dentro de la carpeta `informe/`, además de dar respuesta detallada y justificada a las **cuatro cuestiones técnicas** exigidas en el guion de la práctica, he incorporado algunas explicaciones extra  junto con evidencias gráficas adicionales para dejar constancia de mi comprensión del ejercicio.
 
 ---
 
 ## 5. Autoría
 
-* **Autores:** Álvarez – Estévez
+* **Autores:** Manuel Álvarez Estévez
 * **Módulo:** Big Data Aplicado (`IABD-5074`)
-* **Fecha:** Noviembre de 2026
+* **Fecha:** 22/11/2026
